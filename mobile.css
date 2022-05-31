@@ -1,0 +1,45 @@
+#nav{
+    flex-direction: column;
+    padding-bottom: 24px;
+    position:  relative;
+}
+#nav img{
+    margin-bottom: 16px;
+}
+#nav ul{
+    flex-direction: column;
+    text-align: center;
+    margin-top: 16px;
+}
+#nav ul li{
+padding-bottom:30px ;
+}
+.about-us-2 {
+flex-direction: column;
+text-align: center;
+}
+
+.about-us-2 img {
+    width: 100%;
+    margin-top: 30px;
+}
+.programs-content{
+    display: block;
+}
+.box{
+flex-direction: column;
+text-align: center;
+}
+.box p{
+    text-align: center;
+}
+.box .div-container{
+    max-width: 80%;
+}
+.trainers-box{
+    display: block;
+}
+#contact p{
+    font-size: 30px;
+
+}
